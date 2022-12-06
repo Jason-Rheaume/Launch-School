@@ -1,0 +1,3 @@
+# Ignore all SQLite databases
+(folder) /* . (name of file)
+db/*.sqlite3
